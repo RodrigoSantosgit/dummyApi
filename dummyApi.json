@@ -1,0 +1,23 @@
+{
+  "data": {
+    "classroomId": 1,
+    "unavailablePeriods": [
+      {
+        "startDate": "2020-03-26T17:13:07.033Z",
+        "endDate": "2020-03-26T17:14:07.033Z"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "code": "string",
+      "link": "string",
+      "title": "string",
+      "detail": "string",
+      "type": "Error",
+      "resourceName": "string",
+      "propertyName": "string",
+      "attemptedValue": {}
+    }
+  ]
+}
